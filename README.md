@@ -1,4 +1,4 @@
-# AWS Lambda Projects - SAA-C03 Exam Preparation
+# AWS Lambda Projects - DVA-C02 Exam Preparation
 
 Hands-on Lambda projects to master AWS event-driven architecture for Developer Associate exam.
 
@@ -88,6 +88,7 @@ Hands-on Lambda projects to master AWS event-driven architecture for Developer A
 5. **"Share code between Lambdas"** → Use Lambda Layers
 
 ## 📂 Repository Structure
+<<<<<<< HEAD
 aws-lambda-projects/
 ├── README.md                    # This file
 ├── project-01-s3-lambda-dynamodb-sns/
@@ -135,3 +136,5 @@ Always delete resources after practice:
 ## 🌟 Star This Repo
 
 If this helped your exam prep, please star ⭐ this repository!
+=======
+>>>>>>> 4200b2179ab36f06311c35ecf2cd34dbf8e10c17
