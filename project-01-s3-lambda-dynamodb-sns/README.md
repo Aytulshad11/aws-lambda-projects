@@ -194,6 +194,9 @@ CUST003,Bob Johnson,bob@example.com,42,Chicago
 
 ## 📸 Screenshots
 
+### Lambda Console
+![Lambda Console](./screenshots/lambda-console.png)
+
 ### CloudWatch Logs
 ![CloudWatch Logs](./screenshots/cloudwatch-logs.png)
 
