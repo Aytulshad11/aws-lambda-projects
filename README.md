@@ -88,3 +88,50 @@ Hands-on Lambda projects to master AWS event-driven architecture for Developer A
 5. **"Share code between Lambdas"** → Use Lambda Layers
 
 ## 📂 Repository Structure
+aws-lambda-projects/
+├── README.md                    # This file
+├── project-01-s3-lambda-dynamodb-sns/
+├── project-02-api-gateway-lambda/
+└── project-03-sqs-lambda-dlq/
+
+
+## 🤝 Contributing
+
+This is a personal learning repository, but feedback is welcome!
+
+## 📜 License
+
+MIT License - Feel free to use for your own exam prep
+
+## 📧 Contact
+
+- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+
+---
+
+**Note**: These projects use AWS Free Tier services. Remember to clean up resources after practice to avoid charges!
+
+## ⚠️ Cost Warning
+
+While most services are Free Tier eligible:
+- **DynamoDB**: First 25 GB free
+- **Lambda**: 1M requests/month free
+- **S3**: First 5 GB free
+- **SNS**: First 1,000 emails free
+
+Always delete resources after practice:
+```bash
+# Cleanup checklist
+□ Delete S3 buckets
+□ Delete DynamoDB tables
+□ Delete Lambda functions
+□ Delete SNS topics
+□ Delete API Gateway APIs
+□ Delete CloudWatch log groups
+□ Delete IAM roles
+```
+
+## 🌟 Star This Repo
+
+If this helped your exam prep, please star ⭐ this repository!
