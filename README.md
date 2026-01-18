@@ -1,4 +1,4 @@
-# AWS Lambda Projects - SAA-C03 Exam Preparation
+# AWS Lambda Projects - DVA-C02 Exam Preparation
 
 Hands-on Lambda projects to master AWS event-driven architecture for Developer Associate exam.
 
