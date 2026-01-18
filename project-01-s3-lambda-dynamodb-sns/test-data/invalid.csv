@@ -1,0 +1,3 @@
+customerId,name,email
+,Missing ID,test@example.com
+CUST006,Valid User,valid@example.com
