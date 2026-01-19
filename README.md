@@ -1,4 +1,4 @@
-# AWS Lambda Projects - DVA-C02 Exam Preparation
+# AWS Lambda Projects
 
 Hands-on Lambda projects to master AWS event-driven architecture for Developer Associate exam.
 
@@ -105,8 +105,8 @@ MIT License - Feel free to use for your own exam prep
 
 ## 📧 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@Aytulshad11](https://github.com/Aytulshad11)
+- LinkedIn: [Aytul Shad](www.linkedin.com/in/md-aytul-shad-ansari-593063216)
 
 ---
 
